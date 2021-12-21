@@ -15,3 +15,5 @@ How to Run Tests:
 2) You need to have the chrome driver location according to your local on line 51 in StepDefinitions.java
 3) You need to have the same version of your chrome browser and chrome driver
 4) You need to run CucumberIntegrationTest.java file
+
+Demo video of the project is also attached.
